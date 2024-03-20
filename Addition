@@ -13,5 +13,5 @@ return(x/y);
 public void printGreeting()
 {
 System.out.println("Hello from ERIC Hernandez");
-System.out.println("Hello from Kennedy Saxton");
+System.out.println("Hello from Hasn Hameed");
 }
