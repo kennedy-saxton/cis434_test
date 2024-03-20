@@ -1,3 +1,7 @@
 int addition(int a, int b){
     return(a+b);
 }
+int math(int d, int t)
+{
+return (d*t);
+}
