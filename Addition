@@ -13,6 +13,7 @@ return(x/y);
 public void printGreeting()
 {
 System.out.println("Hello from ERIC Hernandez");
+System.out.println("Hello from Kennedy saxton");
 System.out.println("Hello from Hasn Hameed");
 }
 return (d/rt);
