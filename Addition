@@ -5,3 +5,7 @@ int math(int d, int t)
 {
 return (d*t);
 }
+int divide(int x, int y)
+{
+return(x/y);
+}
