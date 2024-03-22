@@ -10,6 +10,11 @@ int divide(int x, int y)
 return(x/y);
 }
 
+public class Calculator {
+    public int multiply(int a, int b) {
+        return a * b;
+    }
+
 public void printGreeting()
 {
 System.out.println("Hello from ERIC Hernandez");
